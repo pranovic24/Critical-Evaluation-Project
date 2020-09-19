@@ -1,4 +1,4 @@
-## Financial-Crisis-Critical-Evaluation-Project
+## Financial-Crisis-Project
 This project focuses on the application and implementation of Random Matrix Theory (RMT) in analyzing and interpreting
 the global financial indices during the 2008 financial crisis. Using RMT, it is possible to know the empricial eigenvalue
 distribution and its corresponding distribution of the eigenvector components. As a result, comparisons will be made to analyze
